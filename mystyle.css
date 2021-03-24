@@ -1,0 +1,29 @@
+.container-fluid{
+    padding-top: 20px;
+}
+
+.head{
+    box-shadow: 5px 5px 5px;
+    position: sticky;
+    top: 0px;
+    background-color: gray;
+
+   
+}
+.head ul li a{
+    color: white;
+}
+
+.carousel {
+    z-index: -1;
+}
+
+.bg-dark{
+    color: silver;
+}
+
+.layer{
+
+    z-index: -1;
+}
+
